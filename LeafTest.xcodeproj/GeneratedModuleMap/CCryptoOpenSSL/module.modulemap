@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/mariekristeinharmsen/Documents/Github/untitled folder/LeafTest/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}

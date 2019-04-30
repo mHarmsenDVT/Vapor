@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/mariekristeinharmsen/Documents/Github/untitled folder/LeafTest/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
+    export *
+}
